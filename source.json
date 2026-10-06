@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "5",
+          "date": "2026-10-06T17:46:15Z",
+          "size": 36282947,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.0-beta.4/Kinbits-1.0-b5.ipa",
+          "sha256": "9dbb5c3957d2e40acf8230c7d6c3ad0620840147730a4dcedd41f7e1d0ce743f",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.0 Beta 4\n\nFixes:\n- Corrected Back and Exit controls across in-game pages.\n- Fixed navigation between More, Shop, Inventory, Pet Info, Diary, and Family Tree.\n- Repaired Settings interactions and layout.\n- Fixed custom sleep schedules.\n- Fixed notification management.\n- Fixed the secret Developer Settings unlock.\n- Improved sound-setting behavior and persistence.\n\nUpdate over your existing Kinbits installation to preserve your pet.",
+          "marketingVersion": "1.0 Beta 4"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "4",
           "date": "2026-10-06T16:09:27Z",
           "size": 36263950,
