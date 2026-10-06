@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "6",
+          "date": "2026-10-06T19:05:00Z",
+          "size": 36418201,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.0-beta.5/Kinbits-1.0-b6.ipa",
+          "sha256": "8a34dc53158c5324d93bcf429e2a6610bb4c323d071db05accafcef6af3af747",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.0 Beta 5\n\nFixes:\n- Restored screen effects.\n- Improved Shop and Inventory equipment flow.\n- Added equipment reveal transitions.\n- Restored pet-scene tap interactions.\n- Restored random idle and action animations.\n- Fixed Baby Milk presentation timing.\n- Expanded Developer Settings parity.\n\nUpdate over your existing Kinbits installation to preserve your pet.",
+          "marketingVersion": "1.0 Beta 5"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "5",
           "date": "2026-10-06T17:46:15Z",
           "size": 36282947,
