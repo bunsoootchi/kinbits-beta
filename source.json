@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "4",
+          "date": "2026-10-06T16:09:27Z",
+          "size": 36263950,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.0-beta.3/Kinbits-1.0-b4.ipa",
+          "sha256": "ca583698f0c2238ababf9d5b875d33de7da1028c282bac65d6fb38ad4a54d450",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Fixes:\n- Restored action animations and sleeping presentation.\n- Fixed GAME SCREEN controls overlapping outer navigation.\n- Restored the full More page, Shop, and Inventory.\n- Restored the secret Developer Settings unlock.\n- Removed an obsolete Care menu and restored direct care behavior.\n- Stabilized the FAQ featured carousel layout.\n\nUpdate over your existing installation to preserve your Kinbit.",
+          "marketingVersion": "1.0 Beta 3"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "3",
           "date": "2026-10-06T11:55:16Z",
           "size": 36183859,
