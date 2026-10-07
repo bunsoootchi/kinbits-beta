@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "8",
+          "date": "2026-10-07T11:00:11Z",
+          "size": 41600875,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.0-beta.6.1/Kinbits-1.0-b8.ipa",
+          "sha256": "eec760fad0b60a9f25f809dbbf045b5350353b2ec855b852e01d528ec4155f88",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Fixes:\n- Your Kinbit's face now matches how it really feels. A happy, healthy Kinbit no longer looks angry.\n- Tantrums now work: your Kinbit makes a racket and you can calm it down with one tap.\n- Marriage visitors now arrive, can be answered Yes or No, and leave when their time runs out.\n- Parents visit, small life moments, greetings, Outside trips, job offers, work days and farewells now appear on screen.\n- Hatching and growing up play their bright reveal again.\n- Tap the screen during an animation to skip it and keep playing right away.\n- Babies only see Guess the Direction; the other games unlock as an Adult.\n- Perfect Timing: the marker now moves across the bar, and you stop it yourself.\n- Guess the Direction keeps your Kinbit on screen; the other games use the whole screen.\n- Food reaction messages now disappear on their own.\n\nUpdate over your existing Kinbits installation to preserve your pet.",
+          "marketingVersion": "1.0 Beta 6.1"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "7",
           "date": "2026-10-07T05:41:24Z",
           "size": 41366995,
