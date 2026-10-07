@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "10",
+          "date": "2026-10-07T12:46:05Z",
+          "size": 41662985,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.0-beta.6.3/Kinbits-1.0-b10.ipa",
+          "sha256": "55c8e4a3160ce812f57654efd48928d8eef3b77c42df19a74ae0cd2032a2b9f6",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Fixes:\n- A sleeping Kinbit can no longer be disturbed: tapping the screen while it sleeps does nothing.\n- In the last hour before wake-up time a Wake button appears, so you can wake your Kinbit early.\n- In the hour before bedtime your Kinbit writes in its diary when it has nothing else to do. Feed, Play, Care, More and tapping all still work, and it goes back to writing once you let it be.\n- The early Sleep button is gone; your Kinbit falls asleep on its own at bedtime.\n\nUpdate over your existing Kinbits installation to preserve your pet.",
+          "marketingVersion": "1.0 Beta 6.3"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "9",
           "date": "2026-10-07T11:45:19Z",
           "size": 41661453,
