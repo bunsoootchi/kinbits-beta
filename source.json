@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "7",
+          "date": "2026-10-07T05:41:24Z",
+          "size": 41366995,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.0-beta.6/Kinbits-1.0-b7.ipa",
+          "sha256": "8230a1d57ca83116f7b982bf334df363613d638135ae1e90e2ea4e85ab1155a2",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.0 Beta 6\n\nFixes:\n- Your Kinbit now really moves: idle walks, hops, turns, looks and accessory performances play as smooth animations.\n- Feeding, Baby Milk, cleaning, medicine, taps and other actions play their full animations and settle back on their own.\n- Every Kinbit has its own voice again, with chirps that match how it is feeling.\n- When your Kinbit is sick, a single Medicine button replaces the main controls.\n- Your Kinbit stays on screen during minigames and reacts to the result: happy when you win, sad when you lose.\n- Guess the Direction: your Kinbit walks the way it actually chose.\n\nUpdate over your existing Kinbits installation to preserve your pet.",
+          "marketingVersion": "1.0 Beta 6"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "6",
           "date": "2026-10-06T19:05:00Z",
           "size": 36418201,
