@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "11",
+          "date": "2026-10-07T16:43:47Z",
+          "size": 41716584,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.0-beta.6.4/Kinbits-1.0-b11.ipa",
+          "sha256": "b1e4f4a783ab973d7d4356e20672c4e8fcdfed218744ae2beef303c3b0feff64",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Changes:\n- Diary entries now describe what your Kinbit actually did that day (meals, baths, games, trips Outside, work, visits, getting sick and recovering, and more), written in its own personality's voice.\n- New eye styles: most Kinbits now have cute robotic eyes (inset blocks, little screens, pixel eyes and a visor). The purple full-circle and blue half-closed eyes stay. Every Kinbit keeps its own eye type, and all expressions still show.\n\nDiary entries written before this update stay as they were.\n\nUpdate over your existing Kinbits installation to preserve your pet.",
+          "marketingVersion": "1.0 Beta 6.4"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "10",
           "date": "2026-10-07T12:46:05Z",
           "size": 41662985,
