@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "16",
+          "date": "2026-10-08T09:17:42Z",
+          "size": 43023129,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.2/Kinbits-1.1-b16.ipa",
+          "sha256": "80212c5c74021af25609ddca24653f640a922be65cffb9b6da4f45977e9951fa",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 2\n\nChanges:\n- Outside requests now sound like your Kinbit: each personality asks to go Outside in its own way.\n- A notification lets you know when your Kinbit wants to go Outside. Open Kinbits to answer.\n- Before a trip, you can give your Kinbit a short message to carry (optional, one line, up to 80 characters). You can always skip it.\n- New (beta): Nearby Kinbit Encounters. While your Kinbit is Outside, it may meet another player's Kinbit on a nearby phone, on iPhone or Android. Both phones need Kinbits open or recently used with a Kinbit Outside, and Bluetooth on. Meetings are saved for a future update; this beta only lets you know a meeting happened.\n- Settings > Nearby Kinbit Encounters turns this on or off. Outside works exactly the same either way.\n- Only your Kinbit's look, name, your owner name and the optional message are shared with the other phone. No location, no account, no contact details.\n\nThis feature is new and still being tested on real phones, so meetings may not happen every time.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 2"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "15",
           "date": "2026-10-08T08:24:22Z",
           "size": 42792605,
