@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "17",
+          "date": "2026-10-08T14:16:32Z",
+          "size": 43192452,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.3/Kinbits-1.1-b17.ipa",
+          "sha256": "aed4431c7997b2f64d0bad504955a47d6173e87e20aa7426732efebbd0e1f3e7",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 3\n\nChanges:\n- Nearby visitors (beta): when your Kinbit meets another player's Kinbit while Outside, that Kinbit comes to visit once your Kinbit is home and free.\n- They hang out together for about 10 minutes, with little greetings, hops, dances and chats.\n- If the other player wrote a message before their trip, you can read it from More during the visit.\n- Ask to Leave ends a visit early with a proper goodbye.\n- The first time you meet a new player's Kinbit, it leaves you a small coin gift (10 to 50 coins). Meeting the same Kinbit again later is still a visit, just without another gift.\n- New Visitor Log in More: every Kinbit you've met, with their owner's name, when you met, and any message they carried.\n- The Home Screen widget shows when you have a visitor. Tap it to see them in the app.\n\nNearby encounters are still being tested on real phones, so meetings may not happen every time.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 3"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "16",
           "date": "2026-10-08T09:17:42Z",
           "size": 43023129,
