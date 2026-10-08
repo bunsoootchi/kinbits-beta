@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "13",
+          "date": "2026-10-08T03:42:48Z",
+          "size": 42696261,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.0-beta.6.6/Kinbits-1.0-b13.ipa",
+          "sha256": "52dd8253f0fcc49b2a60ec24d936b97cca6976a906f6023a43e83c5b3495399a",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Changes:\n- New head shapes: Kinbits now have ten blockier, toy-like heads, including a tall squircle, a wide block, a trapezoid, a monitor, a faceted block, a stacked cube, a side-step block and a mushroom cap.\n- Your Kinbit, its family and its lineage keep their identity and voice; only the look of the head is new.\n\nUpdate over your existing Kinbits installation to preserve your pet.",
+          "marketingVersion": "1.0 Beta 6.6"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "12",
           "date": "2026-10-07T17:47:55Z",
           "size": 42700312,
