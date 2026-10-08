@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "18",
+          "date": "2026-10-08T15:21:39Z",
+          "size": 43198822,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.4/Kinbits-1.1-b18.ipa",
+          "sha256": "60aad7e36eb3d33bbaa614b437ba40f26301b3db63f96d7dda16714c547c2cb8",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 4\n\nChanges:\n- Even without meeting another player, your Kinbit sometimes brings a new friend home from Outside. After a normal trip there's a 50% chance a wandering Kinbit comes to visit once you've read the trip story.\n- These wandering visitors hang out just like other visitors, and each one leaves you a gift of 10 to 50 coins.\n- Their owner is unknown, so the Visitor Log shows them as \"???\".\n- Meeting a real player's Kinbit always takes priority, and calling your Kinbit home early with Return Now never brings a visitor.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 4"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "17",
           "date": "2026-10-08T14:16:32Z",
           "size": 43192452,
