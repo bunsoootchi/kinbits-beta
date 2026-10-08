@@ -22,6 +22,17 @@
       },
       "versions": [
         {
+          "version": "1.1",
+          "buildVersion": "15",
+          "date": "2026-10-08T08:24:22Z",
+          "size": 42792605,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.1/Kinbits-1.1-b15.ipa",
+          "sha256": "90b96bae499f934d26d2e64aa0e12780e42c54a40f3479a92f2c7bffd1e50a4d",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 1\n\nChanges:\n- Your Kinbit can now call you by name. After updating, you'll be asked once: \"What should your Kinbit call you?\" Your pet, progress, diary and family are kept exactly as they were.\n- Change your name any time in Settings > Owner Name.\n- Every now and then your Kinbit says something to you by name: hellos, warmer words when you're close, good nights before bed, and happy reunions after trips Outside or work.\n- Kinbit age: Pet Info now shows how old your Kinbit is (one real day = one Kinbit year).\n- Pet Info redesign: your Kinbit's name up top, then personality, stage, age, next stage, blessing and coins, with the condition bars grouped together.\n- The Home Screen widget sometimes greets you by name too.\n\nYour name stays on your device.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 1"
+        },
+        {
           "version": "1.0",
           "buildVersion": "14",
           "date": "2026-10-08T04:42:03Z",
