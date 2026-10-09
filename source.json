@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "21",
+          "date": "2026-10-09T06:11:52Z",
+          "size": 43206674,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.7/Kinbits-1.1-b21.ipa",
+          "sha256": "882174b4db5c486233f0b44e1566ccfc507943a8059340e258e2d5463334deab",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 7\n\nChanges:\n- In the app, your Kinbit now spends most of its time walking around its room instead of standing still. Tap the screen or use any button to interrupt it, like any other animation.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 7"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "20",
           "date": "2026-10-09T04:52:08Z",
           "size": 43202496,
