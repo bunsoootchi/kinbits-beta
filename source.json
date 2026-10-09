@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "19",
+          "date": "2026-10-09T03:49:34Z",
+          "size": 43202413,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.5/Kinbits-1.1-b19.ipa",
+          "sha256": "4ad17c328cddf67247934aae5156fd270439df69f6d3c1527e7c1270828cb54a",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 5\n\nFixes:\n- Go Outside now works right after feeding, cleaning, playing a game or calming a tantrum. Before, it could quietly refuse for a short while.\n- If your Kinbit can't go Outside right now, the screen now tells you why (for example, it's asleep, at work, or needs care).\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 5"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "18",
           "date": "2026-10-08T15:21:39Z",
           "size": 43198822,
