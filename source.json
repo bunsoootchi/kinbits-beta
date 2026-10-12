@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "22",
+          "date": "2026-10-12T07:49:34Z",
+          "size": 43208565,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.8/Kinbits-1.1-b22.ipa",
+          "sha256": "15bb71c1158ccf416488ffacb76d76052e8d6a752d2dc85d4436181d80d23172",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 8\n\nChanges:\n- Visitor Log entries are now read-only. Tapping a visitor in the log does nothing (it can no longer start an action by accident).\n- Marriage: your Kinbit can say yes when its Hygiene and Joy are both at 100. Hunger, Energy and Bond no longer affect the answer.\n- Playdates: while a visitor is over, the two Kinbits keep moving together for the whole visit. They greet each other, chase and swap places, dance, chat and rest side by side. Baby visitors hop along.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 8"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "21",
           "date": "2026-10-09T06:11:52Z",
           "size": 43206674,
