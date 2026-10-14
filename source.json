@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "24",
+          "date": "2026-10-14T09:07:50Z",
+          "size": 43236087,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.10/Kinbits-1.1-b24.ipa",
+          "sha256": "53889d2408392ee7531cf5b041e3ac6174d29606555f0295bc6a29d6b008749e",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 10\n\nChanges:\n- Notifications are much more reliable. Kinbits now asks once for notification permission after setup, and lets you know when your Egg hatches, when your Kinbit evolves, when a marriage proposal arrives, when a visitor or parent drops by, when your Kinbit starts a tantrum, and when it comes back from Outside or work, even while the app is closed.\n- A Kinbit coming home with a visitor sends one notification instead of two.\n\nYou can change notification permission any time in iOS Settings. Update over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 10"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "23",
           "date": "2026-10-14T02:41:34Z",
           "size": 43216214,
