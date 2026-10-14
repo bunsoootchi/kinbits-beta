@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "26",
+          "date": "2026-10-14T16:33:10Z",
+          "size": 43450613,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.12/Kinbits-1.1-b26.ipa",
+          "sha256": "6370cd99415f3a02cba2eb0616dea2eaff4bf136e4d0e9fcf7c681184cb22ad0",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 12\n\nChanges:\n- Marriage no longer needs full care meters. Your Kinbit can accept a visiting suitor's proposal, or marry through More > Get Married, whatever its Joy, Hygiene, Hunger, Energy or Bond.\n- A little secret just got easier: Hunger and Energy no longer matter. Joy, Hygiene and Bond are all that count when your Kinbit finds a partner.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 12"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "25",
           "date": "2026-10-14T15:55:26Z",
           "size": 43451963,
