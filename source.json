@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "23",
+          "date": "2026-10-14T02:41:34Z",
+          "size": 43216214,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.9/Kinbits-1.1-b23.ipa",
+          "sha256": "4634da368bb218714a49fdf1ca9add8af45a3694de41410a52606a604e3add1d",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 9\n\nChanges:\n- New FAQ category: Nearby Encounters. It explains how Nearby Kinbit Encounters work, what is and isn't shared with another player, how Bluetooth is used while your Kinbit is Outside, and how to turn the feature off.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 9"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "22",
           "date": "2026-10-12T07:49:34Z",
           "size": 43208565,
