@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "25",
+          "date": "2026-10-14T15:55:26Z",
+          "size": 43451963,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.11/Kinbits-1.1-b25.ipa",
+          "sha256": "5216942bd153bfb7e27bab13d57d1120626ecb6469eacbc52a5ee9e01a561bc6",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 11\n\nChanges:\n- New: More > Get Married. Adult Kinbits can now choose a partner at any time of day. Pick one of four Kinbits; each has a 50% chance of liking yours. You get 3 tries per day, and they reset the next day.\n- New marriage celebration: every wedding, including accepting a visiting suitor's proposal, now plays a short event in the Sky Crystals with its own new jingle, before your new Egg arrives.\n- Sky Crystals is now the wedding venue, so it is no longer sold in the Shop or listed in your Hideouts. If it was your current Hideout, your Kinbit moves back to the default room.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 11"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "24",
           "date": "2026-10-14T09:07:50Z",
           "size": 43236087,
