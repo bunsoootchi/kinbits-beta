@@ -23,6 +23,17 @@
       "versions": [
         {
           "version": "1.1",
+          "buildVersion": "29",
+          "date": "2026-10-15T07:07:53Z",
+          "size": 43459446,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/v1.1-beta.15/Kinbits-1.1-b29.ipa",
+          "sha256": "26598b3b5af15111a692b894fb2b6a32c8715a55c32fe8865101ce62ab4c4fad",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Kinbits 1.1 Beta 15\n\nChanges:\n- Babies can now play Perfect Timing. Tapping Play shows Play Games and Go Outside; Play Games offers Guess the Direction and Perfect Timing.\n- Go Outside appears for Babies too, locked until your Kinbit becomes an Adult, along with the other games.\n\nUpdate over your existing Kinbits installation to preserve your pet. When SideStore asks about app extensions, choose \"Keep App Extensions\" so the widget stays available.",
+          "marketingVersion": "1.1 Beta 15"
+        },
+        {
+          "version": "1.1",
           "buildVersion": "28",
           "date": "2026-10-15T06:16:21Z",
           "size": 43449336,
