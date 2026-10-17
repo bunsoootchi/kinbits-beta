@@ -347,6 +347,17 @@
       },
       "versions": [
         {
+          "version": "0.8.6",
+          "buildVersion": "5",
+          "date": "2026-10-17T08:28:49Z",
+          "size": 96888361,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/heyyou-v0.8.6-b5/HeyYou-0.8.6-b5.ipa",
+          "sha256": "89da3d2fd4a8bad03ad5a9600ee506383641c9f463d69a8dc6c69998e71d9140",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Hey, you 0.8.6\n\n- Cooler while the app sits open: the 3D room is drawn at half resolution with smoothing (about a quarter of the GPU work), and text and buttons stay fully sharp.\n- Fewer frames when nobody's interacting.\n- No more stray \"do\" lines in the pet's words.\n\nUpdate over your existing installation to keep the downloaded AI and your pet.",
+          "marketingVersion": "0.8.6"
+        },
+        {
           "version": "0.8.5",
           "buildVersion": "4",
           "date": "2026-10-17T07:38:33Z",
