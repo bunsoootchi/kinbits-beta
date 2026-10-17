@@ -347,6 +347,17 @@
       },
       "versions": [
         {
+          "version": "0.8.7",
+          "buildVersion": "6",
+          "date": "2026-10-17T14:56:22Z",
+          "size": 96888403,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/heyyou-v0.8.7-b6/HeyYou-0.8.7-b6.ipa",
+          "sha256": "e5665d9622df4f4c9d580ccc01dedccec79ba13a10ebedc6753c97e417497787",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Hey, you 0.8.7\n\n- Warmer when you open up: personal messages get a few warm, accepting sentences and a gentle question, not a cold one-liner.\n- This holds even after a run of quick requests like \"turn on the lights\".\n\nUpdate over your existing installation to keep the downloaded AI and your pet.",
+          "marketingVersion": "0.8.7"
+        },
+        {
           "version": "0.8.6",
           "buildVersion": "5",
           "date": "2026-10-17T08:28:49Z",
