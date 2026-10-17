@@ -347,6 +347,17 @@
       },
       "versions": [
         {
+          "version": "0.8.4",
+          "buildVersion": "3",
+          "date": "2026-10-17T07:06:52Z",
+          "size": 96883370,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/heyyou-v0.8.4-b3/HeyYou-0.8.4-b3.ipa",
+          "sha256": "4fe73e6033859242994c95566e704862c849fc241efbcfe89298eb4bec882b40",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Hey, you 0.8.4\n\n- Much cooler and faster on iPhone: the AI now runs on the GPU. If that ever fails, it switches to the processor by itself on the next launch.\n- The room rests when nobody's interacting (fewer frames, so less heat).\n- Faster answers on the processor too.\n- The pet stays with you while it's thinking.\n\nUpdate over your existing installation to keep the downloaded AI and your pet.",
+          "marketingVersion": "0.8.4"
+        },
+        {
           "version": "0.8.2",
           "buildVersion": "1",
           "date": "2026-10-17T04:36:46Z",
