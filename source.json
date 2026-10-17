@@ -330,6 +330,34 @@
           "marketingVersion": "1.0 Beta 1"
         }
       ]
+    },
+    {
+      "name": "Hey, you",
+      "bundleIdentifier": "com.gamertheartist.heyyou",
+      "developerName": "gamertheartist",
+      "subtitle": "A little creature who lives on your phone",
+      "localizedDescription": "A cozy pet that talks with you, remembers what matters to you and keeps a little diary about you. The AI runs entirely on your phone: on first launch it downloads its brain once (2.1 GB, best on Wi-Fi), then nothing leaves your device.",
+      "iconURL": "https://bunsoootchi.github.io/kinbits-beta/assets/heyyou-icon.png",
+      "tintColor": "2F4A45",
+      "category": "lifestyle",
+      "beta": true,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "0.8.2",
+          "buildVersion": "1",
+          "date": "2026-10-17T04:36:46Z",
+          "size": 95904657,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/heyyou-v0.8.2-b1/HeyYou-0.8.2-b1.ipa",
+          "sha256": "2813e817a061e8fd3b5acb37ff2c9174ba26fcd8761c50a171a283e8e0a56bcb",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Hey, you 0.8.2 (first iPhone build)\n\n- A little creature who lives on your phone: chat with it, it remembers what matters to you and keeps a diary about you.\n- On first launch, tap Download for its one-time 2.1 GB AI download (best on Wi-Fi). After that everything stays on your phone.\n- Free Apple accounts: refresh it in SideStore within 7 days, like Kinbits.",
+          "marketingVersion": "0.8.2"
+        }
+      ]
     }
   ]
 }
