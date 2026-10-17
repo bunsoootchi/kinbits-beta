@@ -347,6 +347,17 @@
       },
       "versions": [
         {
+          "version": "0.8.5",
+          "buildVersion": "4",
+          "date": "2026-10-17T07:38:33Z",
+          "size": 96887453,
+          "downloadURL": "https://github.com/bunsoootchi/kinbits-beta/releases/download/heyyou-v0.8.5-b4/HeyYou-0.8.5-b4.ipa",
+          "sha256": "9bad36fe3bf31311d413f3c714eb2a9c4e3b70358871f0434190cf652975c256",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Hey, you 0.8.5\n\n- Your recent messages with the pet now show above the chat box: they fade towards the top, scroll, and fold away with the little caret.\n- While the pet thinks, a • • • bubble shows; its reply appears right there.\n- Still running the AI on the GPU for less heat (from 0.8.4).\n\nUpdate over your existing installation to keep the downloaded AI and your pet.",
+          "marketingVersion": "0.8.5"
+        },
+        {
           "version": "0.8.4",
           "buildVersion": "3",
           "date": "2026-10-17T07:06:52Z",
